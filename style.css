@@ -1,0 +1,89 @@
+.first {
+  background: linear-gradient(#e9c46a,#f4a261,#e76f51);
+height: 625px;}
+#banner{
+
+  height:300px; 
+  border: 4px solid whitesmoke; 
+  border-radius: 45px; 
+  margin-left: 490px; 
+  margin-top:-75px ;
+}
+#heading{
+color: whitesmoke; 
+  text-align: center; 
+  text-transform: uppercase; 
+  word-spacing: 10px; 
+  text-decoration: underline;
+  padding-top: 99px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 75px;} 
+
+body{
+background-color:whitesmoke;}
+#info{
+  margin-left:200px;
+  margin-right: 200px;
+  font-family:'Bebas Neue', cursive ;
+  color:whitesmoke;
+  font-size: larger;}
+
+  #about{
+    height: 700px;
+background: linear-gradient(#e76f51,#f4a261,#e9c46a);}
+
+#header{
+  color: #e9c46a  ;
+  text-align: center; 
+  text-transform: uppercase; 
+  font-family: 'Bebas Neue', cursive;
+  font-size: 47px;
+}
+#move{
+color:#f2d307;
+font-size: larger;
+}
+p{
+
+font-family: 'IBM Plex Sans Arabic', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+color: white;
+margin-left: 150px;
+margin-right: 150px;}
+iframe{
+  border: 4px solid ; 
+  border-radius: 45px; 
+  margin-left: 495px; 
+  margin-top:-10px ;
+
+
+
+}
+#photos{
+background-color:crimson;
+
+
+
+
+}
+.many{
+height: 175px;
+
+
+
+}
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
